@@ -1,7 +1,7 @@
 # msds_434_cloud_data_ingestor
 
-###Diagram
-![Component Diagram](images/diagram.png)
+### Diagram
+![Component Diagram](images/msds_434_ingestion.drawio.png)
 
 ### Cloud Functions
 https://cloud.google.com/sdk/gcloud/reference/functions/deploy
